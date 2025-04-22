@@ -1,3 +1,9 @@
-This is an ongoing project for academic purposes..
-We're a group working on this.
-Special thanks to <a src="htps://github.com/nafiulchowdhury/">Nafiul Chowdhury</a>
+## 📚 Project Info
+
+This is an ongoing project developed for academic purposes.
+
+We're a group collaborating on this effort to build something meaningful and educational.
+
+### 🙌 Special Thanks
+
+Special thanks to [Nafiul Chowdhury](https://github.com/nafiulchowdhury) for the valuable contributions and support!
