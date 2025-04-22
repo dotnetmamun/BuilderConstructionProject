@@ -1,0 +1,28 @@
+C:\Users\Nayeem\Desktop\Project\BuilderConstructionProject\BuilderConstruction\bin\Debug\net9.0\BuilderConstruction.deps.json
+C:\Users\Nayeem\Desktop\Project\BuilderConstructionProject\BuilderConstruction\bin\Debug\net9.0\BuilderConstruction.runtimeconfig.json
+C:\Users\Nayeem\Desktop\Project\BuilderConstructionProject\BuilderConstruction\bin\Debug\net9.0\BuilderConstruction.dll
+C:\Users\Nayeem\Desktop\Project\BuilderConstructionProject\BuilderConstruction\bin\Debug\net9.0\BuilderConstruction.pdb
+C:\Users\Nayeem\Desktop\Project\BuilderConstructionProject\BuilderConstruction\obj\Debug\net9.0\BuilderConstruction.csproj.AssemblyReference.cache
+C:\Users\Nayeem\Desktop\Project\BuilderConstructionProject\BuilderConstruction\obj\Debug\net9.0\BuilderConstruction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nayeem\Desktop\Project\BuilderConstructionProject\BuilderConstruction\obj\Debug\net9.0\BuilderConstruction.AssemblyInfoInputs.cache
+C:\Users\Nayeem\Desktop\Project\BuilderConstructionProject\BuilderConstruction\obj\Debug\net9.0\BuilderConstruction.AssemblyInfo.cs
+C:\Users\Nayeem\Desktop\Project\BuilderConstructionProject\BuilderConstruction\obj\Debug\net9.0\BuilderConstruction.csproj.CoreCompileInputs.cache
+C:\Users\Nayeem\Desktop\Project\BuilderConstructionProject\BuilderConstruction\obj\Debug\net9.0\BuilderConstruction.dll
+C:\Users\Nayeem\Desktop\Project\BuilderConstructionProject\BuilderConstruction\obj\Debug\net9.0\refint\BuilderConstruction.dll
+C:\Users\Nayeem\Desktop\Project\BuilderConstructionProject\BuilderConstruction\obj\Debug\net9.0\BuilderConstruction.pdb
+C:\Users\Nayeem\Desktop\Project\BuilderConstructionProject\BuilderConstruction\obj\Debug\net9.0\BuilderConstruction.genruntimeconfig.cache
+C:\Users\Nayeem\Desktop\Project\BuilderConstructionProject\BuilderConstruction\obj\Debug\net9.0\ref\BuilderConstruction.dll
+G:\Final Project\Project\BuilderConstructionProject\BuilderConstruction\obj\Debug\net9.0\BuilderConstruction.csproj.AssemblyReference.cache
+G:\Final Project\Project\BuilderConstructionProject\BuilderConstruction\obj\Debug\net9.0\BuilderConstruction.GeneratedMSBuildEditorConfig.editorconfig
+G:\Final Project\Project\BuilderConstructionProject\BuilderConstruction\obj\Debug\net9.0\BuilderConstruction.AssemblyInfoInputs.cache
+G:\Final Project\Project\BuilderConstructionProject\BuilderConstruction\obj\Debug\net9.0\BuilderConstruction.AssemblyInfo.cs
+G:\Final Project\Project\BuilderConstructionProject\BuilderConstruction\obj\Debug\net9.0\BuilderConstruction.csproj.CoreCompileInputs.cache
+G:\Final Project\Project\BuilderConstructionProject\BuilderConstruction\obj\Debug\net9.0\BuilderConstruction.dll
+G:\Final Project\Project\BuilderConstructionProject\BuilderConstruction\obj\Debug\net9.0\refint\BuilderConstruction.dll
+G:\Final Project\Project\BuilderConstructionProject\BuilderConstruction\obj\Debug\net9.0\BuilderConstruction.pdb
+G:\Final Project\Project\BuilderConstructionProject\BuilderConstruction\bin\Debug\net9.0\BuilderConstruction.deps.json
+G:\Final Project\Project\BuilderConstructionProject\BuilderConstruction\bin\Debug\net9.0\BuilderConstruction.runtimeconfig.json
+G:\Final Project\Project\BuilderConstructionProject\BuilderConstruction\bin\Debug\net9.0\BuilderConstruction.dll
+G:\Final Project\Project\BuilderConstructionProject\BuilderConstruction\bin\Debug\net9.0\BuilderConstruction.pdb
+G:\Final Project\Project\BuilderConstructionProject\BuilderConstruction\obj\Debug\net9.0\BuilderConstruction.genruntimeconfig.cache
+G:\Final Project\Project\BuilderConstructionProject\BuilderConstruction\obj\Debug\net9.0\ref\BuilderConstruction.dll
